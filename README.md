@@ -1,6 +1,5 @@
 # SPACE
-Project with HTML, CSS, JAVASCRIPT
-100% Responsive
+Project with HTML, CSS, JAVASCRIPT and 100% Responsive
 
 Project made with Web Design Mastery
 https://www.youtube.com/watch?v=JB8WYpLzseM&list=PLz_5rPRIvGEDelEqR_WJmhJJDCWm4YI4V&index=6
